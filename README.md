@@ -1,4 +1,4 @@
-# HexBoxes
+# HexBox
 
 A simple hexadecimal visualization tool using [knockout.js](http://knockoutjs.com/) and [sammy.js](http://sammyjs.org/).
 
