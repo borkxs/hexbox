@@ -4,4 +4,4 @@ A simple hexadecimal visualization tool using [knockout.js](http://knockoutjs.co
 
 Just enter some hex string and each character will be represented as a 4-bit group of boxes.
 
-Try it out: [http://pre.lu/de/hexboxes](http://pre.lu/de/hexboxes).
+Try it out: [http://pre.lu/de/hexbox](http://pre.lu/de/hexbox).
